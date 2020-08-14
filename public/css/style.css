@@ -1,0 +1,25 @@
+body{
+  background-color: #eeebeb;
+}
+
+.logo{
+  width: 300px;
+  height: 65px;
+  max-height: 65px;
+  overflow: hidden;
+}
+.logo img{
+  margin-top: -50px;
+}
+
+.btn{
+  background-color: #001a49;
+  color: #fff;
+  border:1px solid #001a49 ;
+}
+
+.btn:hover{
+  color: rgb(54, 53, 53);
+  background-color: #EEEBEB;
+  border:1px solid rgba(0,0,0,.125) ;
+}
